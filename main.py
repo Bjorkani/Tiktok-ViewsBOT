@@ -14,7 +14,7 @@ def main():
      |_   _(_) |_\ \ / (_)_____ __ _____
        | | | | / /\ V /| / -_) V  V (_-<
        |_| |_|_\_\ \_/ |_\___|\_/\_//__/
-          Ahmad Chen Wang Xuesi
+          Bio777x
     """
     )
     print(Fore.LIGHTYELLOW_EX + "Contoh: https://www.tiktok.com/@anonsecteaminc/video/6993753284267740443")
